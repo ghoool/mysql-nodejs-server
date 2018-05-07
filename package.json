@@ -1,0 +1,23 @@
+{
+  "name": "mysqlnodetut",
+  "version": "1.0.0",
+  "description": "Dev build of a NodeJS server with mySQL backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghoool/nodejs-mysql-server.git"
+  },
+  "author": "ghoool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghoool/nodejs-mysql-server/issues"
+  },
+  "homepage": "https://github.com/ghoool/nodejs-mysql-server#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  }
+}
